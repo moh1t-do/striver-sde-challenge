@@ -18,26 +18,17 @@ using namespace std;
 #define LL long long int
 #define line "\n"
 
-int maxSubArray(vector<int> &nums)
+// algorithms next_permutation generates next permutation
+void nextPermutation(vector<int> &nums)
 {
-    int lmax, gmax;
-    lmax = 0;
-    gmax = INT_MIN;
-
-    for (auto &num : nums)
-    {
-        // is the current number is big or the sum of is big
-        lmax = max(num, lmax + num);
-        gmax = max(gmax, lmax);
-    }
-    return gmax;
+    next_permutation(nums.begin(), nums.end());
 }
 
 void solve()
 {
-    vector<int> vec{-2, 1, -3, 4, -1, 2, 1, -5, 4};
+    vector<int> nums{1, 2, 3};
     // /INPUT
-    maxSubArray(vec);
+    nextPermutation(nums);
 }
 
 int main()
