@@ -18,6 +18,8 @@ using namespace std;
 #define LL long long int
 #define line "\n"
 
+// space O(N)
+// using first row an first col to mark zero and a col0
 void setZeroes(vector<vector<int>> &matrix)
 {
 
