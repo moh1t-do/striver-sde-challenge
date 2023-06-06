@@ -6,7 +6,6 @@ class Solution
 public:
     double myPow(double x, int n)
     {
-        // using recursion
         double ans = 1.0;
         long long nn = abs(n);
 
