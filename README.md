@@ -3,3 +3,18 @@
 - [ ] Arrays Part-II
 - [ ] Arrays Part-III
 - [ ] Arrays Part-IV
+- [ ] Linked List
+- [ ] Linked List-II
+- [ ] Linked List and Arrays
+- [ ] Greedy Algorithm
+- [ ] Recursion
+- [ ] Recursion and Backtracking
+- [ ] Binary Search
+- [ ] Stack and Queue
+- [ ] Stack and Queue Part-II
+- [ ] String
+- [ ] String-II
+- [ ] Binary Tree
+- [ ] Binary Tree part-II
+- [ ] Binary Tree part-III
+- [x] Binary Search Tree
