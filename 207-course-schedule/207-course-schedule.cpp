@@ -19,7 +19,8 @@ public:
             if (indeg[i] == 0)
             qu.push(i);
         }
-
+        
+        // kahn's algorithm
         int cnt = 0;
         while(!qu.empty())
         {
