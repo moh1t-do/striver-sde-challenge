@@ -18,3 +18,6 @@
 - [ ] Binary Tree part-II
 - [ ] Binary Tree part-III
 - [x] Binary Search Tree
+- [ ] Binary Search Tree Part-II
+- [ ] Binary Trees[Miscellaneous]
+- [x] Graph
