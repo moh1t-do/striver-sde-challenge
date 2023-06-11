@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>>& graph, vector<int>& col, int ver)
+    bool bfs(vector<vector<int>>& graph, vector<int>& col, int ver)
     {
         queue<int> qu;
         qu.push(ver);
@@ -37,7 +37,7 @@ public:
         vector<int> col(m, -1);
         for(int i=0; i<m; i++)
         {
-            if(col[i] == -1 && !dfs(graph, col, i))
+            if(col[i] == -1 && !bfs(graph, col, i))
             return false;
         }
         return true;
