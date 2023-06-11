@@ -1,32 +1,14 @@
 class Solution {
 public:
-    bool bfs(vector<vector<int>>& graph, vector<int>& col, int ver)
+    bool dfs(vector<vector<int>>& graph, vector<int>& col, int ver, int c)
     {
-        queue<int> qu;
-        qu.push(ver);
-        col[ver] = 1;
-
-        while(!qu.empty())
+        col[ver] = ~c;
+        for(auto &i: graph[ver])
         {
-            int sz = qu.size();
-            while(sz--)
-            {
-                auto cur = qu.front();
-                qu.pop();
-
-                for(auto &i: graph[cur])
-                {
-                    if (col[i] == -1)
-                    {
-                        col[i] = ~col[cur];
-                        qu.push(i);
-                    }
-                    else if (col[i] == col[cur])
-                    {
-                        return false;
-                    }
-                }
-            }
+            if (col[i] == -1 && !dfs(graph, col, i, col[ver]))
+                    return false;
+            else if (col[i] == col[ver])
+                return false;
         }
         return true;
     }
@@ -35,9 +17,11 @@ public:
         int n = graph[0].size();
 
         vector<int> col(m, -1);
+        
+        // for connected components
         for(int i=0; i<m; i++)
         {
-            if(col[i] == -1 && !bfs(graph, col, i))
+            if(col[i] == -1 && !dfs(graph, col, i, 0))
             return false;
         }
         return true;
