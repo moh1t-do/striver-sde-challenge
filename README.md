@@ -2,7 +2,7 @@
 - [x] Arrays
 - [x] Arrays Part-II
 - [x] Arrays Part-III
-- [ ] Arrays Part-IV
+- [x] Arrays Part-IV
 - [ ] Linked List
 - [ ] Linked List-II
 - [ ] Linked List and Arrays
