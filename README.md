@@ -3,8 +3,8 @@
 - [x] Arrays Part-II
 - [x] Arrays Part-III
 - [x] Arrays Part-IV
-- [ ] Linked List
-- [ ] Linked List-II
+- [x] Linked List
+- [x] Linked List-II
 - [ ] Linked List and Arrays
 - [ ] Greedy Algorithm
 - [ ] Recursion
