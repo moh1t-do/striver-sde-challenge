@@ -10,7 +10,7 @@
 - [ ] Recursion
 - [ ] Recursion and Backtracking
 - [ ] Binary Search
-- [ ] Stack and Queue
+- [x] Stack and Queue
 - [ ] Stack and Queue Part-II
 - [ ] String
 - [ ] String-II
