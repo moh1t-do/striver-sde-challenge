@@ -11,7 +11,7 @@
 - [ ] Recursion and Backtracking
 - [ ] Binary Search
 - [x] Stack and Queue
-- [ ] Stack and Queue Part-II
+- [x] Stack and Queue Part-II
 - [ ] String
 - [ ] String-II
 - [ ] Binary Tree
