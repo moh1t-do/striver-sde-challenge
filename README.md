@@ -1,4 +1,5 @@
 # [Striver’s SDE Sheet Challenge](https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/)
+
 - [x] Arrays
 - [x] Arrays Part-II
 - [x] Arrays Part-III
@@ -6,7 +7,7 @@
 - [x] Linked List
 - [x] Linked List-II
 - [ ] Linked List and Arrays
-- [x] Greedy Algorithm
+- [ ] Greedy Algorithm
 - [ ] Recursion
 - [ ] Recursion and Backtracking
 - [ ] Binary Search
@@ -21,3 +22,10 @@
 - [ ] Binary Search Tree Part-II
 - [ ] Binary Trees[Miscellaneous]
 - [x] Graph
+- [ ] Graph Part-II
+- [ ] Dynamic Programming
+- [ ] Dynamic Programming Part-II
+- [ ] Trie
+- [ ] Operating System
+- [ ] DBMS
+- [ ] Computer Networks
