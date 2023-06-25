@@ -7,7 +7,7 @@
 - [x] Linked List
 - [x] Linked List-II
 - [ ] Linked List and Arrays
-- [ ] Greedy Algorithm
+- [x] Greedy Algorithm
 - [ ] Recursion
 - [ ] Recursion and Backtracking
 - [ ] Binary Search
