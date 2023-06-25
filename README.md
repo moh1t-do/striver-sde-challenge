@@ -6,7 +6,7 @@
 - [x] Arrays Part-IV
 - [x] Linked List
 - [x] Linked List-II
-- [ ] Linked List and Arrays
+- [x] Linked List and Arrays
 - [x] Greedy Algorithm
 - [ ] Recursion
 - [ ] Recursion and Backtracking
