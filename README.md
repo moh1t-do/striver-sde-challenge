@@ -15,7 +15,7 @@
 - [x] Stack and Queue Part-II
 - [ ] String
 - [ ] String-II
-- [ ] Binary Tree
+- [x] Binary Tree
 - [ ] Binary Tree part-II
 - [ ] Binary Tree part-III
 - [x] Binary Search Tree
