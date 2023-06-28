@@ -16,7 +16,7 @@
 - [ ] String
 - [ ] String-II
 - [x] Binary Tree
-- [ ] Binary Tree part-II
+- [x] Binary Tree part-II
 - [ ] Binary Tree part-III
 - [x] Binary Search Tree
 - [ ] Binary Search Tree Part-II
