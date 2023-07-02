@@ -23,7 +23,7 @@
 - [ ] Binary Trees[Miscellaneous]
 - [x] Graph
 - [ ] Graph Part-II
-- [ ] Dynamic Programming
+- [x] Dynamic Programming
 - [ ] Dynamic Programming Part-II
 - [ ] Trie
 - [ ] Operating System
