@@ -25,7 +25,7 @@
 - [ ] Graph Part-II
 - [x] Dynamic Programming
 - [x] Dynamic Programming Part-II
-- [ ] Trie
+- [x] Trie
 - [ ] Operating System
 - [ ] DBMS
 - [ ] Computer Networks
