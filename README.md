@@ -11,6 +11,7 @@
 - [x] Recursion
 - [x] Recursion and Backtracking
 - [ ] Binary Search
+- [x] Heaps
 - [x] Stack and Queue
 - [x] Stack and Queue Part-II
 - [ ] String
