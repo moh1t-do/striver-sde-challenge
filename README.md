@@ -21,7 +21,7 @@
 - [x] Binary Tree part-III
 - [x] Binary Search Tree
 - [x] Binary Search Tree Part-II
-- [ ] Binary Trees[Miscellaneous]
+- [x] Binary Trees[Miscellaneous]
 - [x] Graph
 - [ ] Graph Part-II
 - [x] Dynamic Programming
