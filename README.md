@@ -14,7 +14,7 @@
 - [x] Heaps
 - [x] Stack and Queue
 - [x] Stack and Queue Part-II
-- [ ] String
+- [x] String
 - [ ] String-II
 - [x] Binary Tree
 - [x] Binary Tree part-II
