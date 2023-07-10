@@ -23,7 +23,7 @@
 - [x] Binary Search Tree Part-II
 - [x] Binary Trees[Miscellaneous]
 - [x] Graph
-- [ ] Graph Part-II
+- [x] Graph Part-II
 - [x] Dynamic Programming
 - [x] Dynamic Programming Part-II
 - [x] Trie
